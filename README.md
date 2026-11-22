@@ -11,7 +11,7 @@ A collection of lightweight, offline-capable Android emulator installers. These 
 | LDPlayer | 3.130.0 | Lollipop 5 | 334 MB |
 | Leapdroid | 18.0.0 | KitKat 4.4 | 271 MB |
 | MEmu | 9.5.9.0 | Nougat 7 | 734 MB |
-| Nox Player | 7.0.6.2 | Pie 9 | 790 MB |
+| ⭐Nox Player | 7.0.6.2 | Pie 9 | 790 MB |
 | SmartGaga | Latest | Nougat 7 | 286 MB |
 
 ## Download
