@@ -1,24 +1,27 @@
-# Lightweight Android Emulators (Offline & Portable)
+# Lightweight Android Emulators (Offline & Portable) Under 1 GB
 
 A collection of lightweight, offline-capable Android emulator installers. These are official binaries sourced from archives and forums, optimized for low-spec hardware or environments without internet access.
 
 ## Available Emulators
 
-| Emulator | Version | Android | Size |
-| :--- | :--- | :--- | :--- |
-| Koplayer | 1.4 | KitKat 4.4 | 368 MB |
-| LDPlayer | 5.0.13.1 | Nougat 7 | 505 MB |
-| LDPlayer | 3.130.0 | Lollipop 5 | 334 MB |
-| Leapdroid | 18.0.0 | KitKat 4.4 | 271 MB |
-| MEmu | 9.5.9.0 | Nougat 7 | 734 MB |
-| ⭐Nox Player | 7.0.6.2 | Pie 9 | 790 MB |
-| SmartGaga | Latest | Nougat 7 | 286 MB |
+LDPlayer 14.0.36.0 Upside Down Cake (Android 14)
+MuMu Player 5.11.0.2302 Snow Cone (Android 12)
+LDPlayer 9.5.45.0 Pie (Android 9)
+Nox 7.0.6.2 Pie (Android 9)
+BlueStacks 4.280.0.1022 Nougat (Android 7)
+LDPlayer 5.0.13.1 Nougat (Android 7)
+MEmu 9.5.9.0 Nougat (Android 7)
+SmartGaga 1.1.646.1 Nougat (Android 7)
+LDPlayer 3.130.0 Lollipop (Android 5)
+BlueStacks 3.60.89.3419 KitKat (Android 4.4)
+KoPlayer 1.4 KitKat (Android 4.4)
+LeapDroid 18.0.0 KitKat (Android 4.4)
 
 ## Download
 
-📥 [MEGA Folder](https://mega.nz/folder/dMhFzARL#mjZETt9qnBUoFn-BchsqjQ)
+📥 [Internet Archive]([https://mega.nz/folder/dMhFzARL#mjZETt9qnBUoFn-BchsqjQ](https://archive.org/details/portable-android-emulators))
 
-https://mega.nz/folder/dMhFzARL#mjZETt9qnBUoFn-BchsqjQ
+https://archive.org/details/portable-android-emulators
 
 ## Notes
 
